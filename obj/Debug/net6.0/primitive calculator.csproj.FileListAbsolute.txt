@@ -1,0 +1,14 @@
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\bin\Debug\net6.0\primitive calculator.exe
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\bin\Debug\net6.0\primitive calculator.deps.json
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\bin\Debug\net6.0\primitive calculator.runtimeconfig.json
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\bin\Debug\net6.0\primitive calculator.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\bin\Debug\net6.0\primitive calculator.pdb
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.AssemblyInfoInputs.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.AssemblyInfo.cs
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.csproj.CoreCompileInputs.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\refint\primitive calculator.dll
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.pdb
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\primitive calculator.genruntimeconfig.cache
+C:\Users\xizzi\OneDrive\Рабочий стол\си шарп\primitive calculator\obj\Debug\net6.0\ref\primitive calculator.dll
